@@ -73,13 +73,28 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabut1214&show_icons=true&locale=en" alt="sabut1214 stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sabut1214&show_icons=true&theme=dark&locale=en" alt="sabut1214 stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sabut1214&show_icons=true&locale=en&layout=compact" alt="sabut1214 top langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sabut1214&show_icons=true&layout=compact&theme=dark&locale=en" alt="sabut1214 top langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabut1214" alt="sabut1214 streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabut1214&theme=dark" alt="sabut1214 streak" />
 </p>
+
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/sabut1214/sabut1214/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/sabut1214/sabut1214/output/pacman-contribution-graph.svg">
+    <img alt="Pac‑Man contribution graph"
+      src="https://raw.githubusercontent.com/sabut1214/sabut1214/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
+

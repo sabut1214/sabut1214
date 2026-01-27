@@ -9,10 +9,6 @@
   <a href="mailto:sabutstha234@gmail.com">Email</a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sabut1214&label=Profile%20views&color=0e75b6&style=flat" alt="sabut1214" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
@@ -81,9 +77,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabut1214&theme=dark" alt="sabut1214 streak" />
+  <img src="https://streak-stats.vercel.app/?user=sabut1214&theme=dracula" alt="sabut1214 streak" />
 </p>
 
+---
 
 ## 📈 Contribution Graph
 

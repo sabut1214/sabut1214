@@ -78,8 +78,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabut1214&show_icons=true&theme=dark&locale=en" alt="sabut1214 stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sabut1214&show_icons=true&theme=dark&locale=en&cache_seconds=86400" alt="sabut1214 stats" />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sabut1214&show_icons=true&layout=compact&theme=dark&locale=en" alt="sabut1214 top langs" />

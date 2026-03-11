@@ -75,11 +75,7 @@
 ---
 
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabut1214&show_icons=true&locale=en&cache_seconds=86400" alt="sabut1214 stats" />
-</p>
 
 
 <p align="center">

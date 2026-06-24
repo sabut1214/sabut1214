@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sabut Kumar Baidhya</h1>
-<h3 align="center">Full Stack Developer • Next.js / React / Node.js • UI/UX (Figma)</h3>
+<h3 align="center">Full Stack Developer • Next.js / React / Node.js / PHP</h3>
 
 <p align="center">
   <a href="https://sabutkumarbaidhya.com.np/" target="_blank" rel="noreferrer">Portfolio</a>
@@ -13,9 +13,9 @@
 
 ## 👨‍💻 About Me
 
-- 💼 Full Stack Developer based in Kathmandu, Nepal — recently completed a MERN/Next.js internship at **Silicore Technology**, shipping production features for a real-time, face-matched event-photography platform
-- 🚀 Independently designed, built, and deployed **[TradeSkul](https://www.tradeskul.com/)**, a full-stack LMS for stock market education in Nepal — sold to a paying client, handling payments (Khalti/eSewa), exams, and live webinars
-- 🎯 Currently open to full-time roles in Full Stack Web Development (React/Next.js, Node.js)
+- 💼 Full Stack Developer based in Kathmandu, Nepal recently completed a MERN/Next.js internship at **Silicore Technology**, shipping production features for a real-time, face-matched event-photography platform
+- 🚀 Independently designed, built, and deployed **[TradeSkul](https://www.tradeskul.com/)**, a full-stack LMS for stock market education in Nepal sold to a paying client, exams, and live webinars
+- 🎯 Currently open to full-time roles in Full Stack Web Development (React/Next.js, Node.js,PHP)
 - 🎨 UI/UX practitioner in Figma — certified in Design Thinking and UX Fundamentals (Interaction Design Foundation)
 - 📫 Reach me: **sabutstha234@gmail.com**
 - 🌐 Portfolio: **[sabutkumarbaidhya.com.np](https://sabutkumarbaidhya.com.np/)**

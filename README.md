@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sabut Kumar Baidhya</h1>
-<h3 align="center">Full Stack Web Developer (MERN) • Next.js / React / Node.js • UI/UX (Figma)</h3>
+<h3 align="center">Full Stack Developer • Next.js / React / Node.js • UI/UX (Figma)</h3>
 
 <p align="center">
   <a href="https://sabutkumarbaidhya.com.np/" target="_blank" rel="noreferrer">Portfolio</a>
@@ -13,13 +13,12 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently building **Full Stack MERN projects** (React, Node.js, Express, MongoDB)
-- 🌱 Learning **Next.js, TypeScript, REST APIs**, and improving **UI/UX workflows** in Figma
-- 👯 Open to collaborating on **Next.js / MERN open-source projects**
-- 💬 Ask me about **MERN, Next.js, React, Node.js, UI/UX (Figma), Tailwind**
+- 💼 Full Stack Developer based in Kathmandu, Nepal — recently completed a MERN/Next.js internship at **Silicore Technology**, shipping production features for a real-time, face-matched event-photography platform
+- 🚀 Independently designed, built, and deployed **[TradeSkul](https://www.tradeskul.com/)**, a full-stack LMS for stock market education in Nepal — sold to a paying client, handling payments (Khalti/eSewa), exams, and live webinars
+- 🎯 Currently open to full-time roles in Full Stack Web Development (React/Next.js, Node.js)
+- 🎨 UI/UX practitioner in Figma — certified in Design Thinking and UX Fundamentals (Interaction Design Foundation)
 - 📫 Reach me: **sabutstha234@gmail.com**
-- 🌐 Portfolio: **sabutkumarbaidhya.com.np**
-- 📄 Experience: **LinkedIn** → https://www.linkedin.com/in/sabut-kumar-baidhya-737969313/
+- 🌐 Portfolio: **[sabutkumarbaidhya.com.np](https://sabutkumarbaidhya.com.np/)**
 
 ---
 
@@ -39,7 +38,6 @@
 
 ## 🧰 Tech Stack
 
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
   <img width="12" />
@@ -55,11 +53,17 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="supabase" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss" />
   <img width="12" />
@@ -73,10 +77,6 @@
 </div>
 
 ---
-
-
-
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sabut1214&show_icons=true&layout=compact&theme=dark&locale=en" alt="sabut1214 top langs" />
@@ -100,4 +100,3 @@
       src="https://raw.githubusercontent.com/sabut1214/sabut1214/output/pacman-contribution-graph.svg">
   </picture>
 </p>
-

@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-- 💼 Full Stack Developer based in Kathmandu, Nepal — recently completed a MERN/Next.js internship at **Silicore Technology**, shipping production features for a real-time, face-matched event-photography platform
+- 💼 Full Stack Developer based in Kathmandu, Nepal recently completed a MERN/Next.js internship at **Silicore Technology**, shipping production features for a real-time, face-matched event-photography platform
 - 🚀 Independently designed, built, and deployed **[TradeSkul](https://www.tradeskul.com/)** a full-stack LMS for stock market education in Nepal, sold to a paying client, with a custom exam engine and live webinars
 - 🎯 Currently open to full-time roles in Full Stack Web Development (React/Next.js, Node.js)
 - 🎨 UI/UX practitioner in Figma certified in Design Thinking and UX Fundamentals (Interaction Design Foundation)
